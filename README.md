@@ -1,6 +1,3 @@
-[Download here.](https://github.com/Shacklefty/Date-Everything-Realizer)
----
-
 # Date Everything! Realizer
 
 ## Overview
